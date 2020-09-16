@@ -1,0 +1,13 @@
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.exe
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.deps.json
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.json
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.dev.json
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.dll
+D:\Final_exam_c_sharp\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.pdb
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.csprojAssemblyReference.cache
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfoInputs.cache
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfo.cs
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.csproj.CoreCompileInputs.cache
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.dll
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.pdb
+D:\Final_exam_c_sharp\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.genruntimeconfig.cache
