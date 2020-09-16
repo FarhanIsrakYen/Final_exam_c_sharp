@@ -23,8 +23,8 @@ namespace Question5
 
         public static Customer GetCustomer(FrameworkContext context, int id)
         {
-            var Customer = context.Customers.Where(option => option.Id == id).FirstOrDefault();
-            return Customer;
+            var customer = context.Customers.Where(option => option.Id == id).FirstOrDefault();
+            return customer;
         }
 
         public static void AddCustomer(FrameworkContext context)
